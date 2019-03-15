@@ -1,0 +1,204 @@
+.background {
+  background-color: #FFFFFF;
+}
+.background-gray-bar{
+  width: 1768px;
+  height: 109px;
+  background-color: #ededed;
+}
+
+.cta{
+  height: 39px;
+  background-color: #ff6200;
+  font-family: "Bebas";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 19px;
+  padding-top: 6px;
+}
+
+.nav-menu{
+  padding-top: 10px;
+  float: left;
+}
+
+.navigation{
+  height: 102px;
+  background-color:#f9f9f9;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.dropdown-toggle::after {
+  display:none;
+}
+
+.logo-icon{
+  width: 700px;
+  padding-left: 0px !important;
+}
+
+.logo{
+  font-family: "Bebas";
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+.logo-your{
+  color: black;
+}
+
+.no-padding-left{
+  padding-left: 0px !important;
+}
+.logo-logo{
+  color: #ff6200;
+}
+.align-right{
+  text-align: right;
+}
+
+.white{
+  color: white;
+  vertical-align: middle;
+}
+
+.orange{
+  color: #be3600;
+  vertical-align: middle;
+}
+
+a {
+  color:#929292;
+}
+
+a:hover{
+  color: #ff6200;
+  text-decoration: none;
+}
+
+.page-active{
+  color: black;
+  font-weight: 700;
+}
+
+.page-active:hover{
+  color: #ff6200;
+}
+
+.page-path{
+  margin: 40px 0;
+  font-size: 14px;
+  line-height: 25px;
+  color: #929292;
+  font-family: "Ubuntu";
+  font-weight: 400;
+}
+
+.page-content{
+ margin: 40px 0px 60px 0px; 
+}
+ .page-title {
+  font-size: 27px;
+  line-height: 19px;
+  color: #ff6200;
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+
+.page-desc{
+  width: 955px;
+  height: 99px;
+  font-size: 14px;
+  letter-spacing: 0px;
+  line-height: 19px;
+  color: #878787;
+  font-family: "Ubuntu Light";
+  font-weight: 300;
+}
+
+.section-title{
+  font-size: 23px;
+  line-height: 25px;
+  color: #ff6200;
+  font-family: "Open Sans";
+  font-weight: 400;
+}
+
+
+.submit-button{
+  font-size: 14px;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-weight: 700;
+  margin: 15px 0;
+  width: 98px;
+  height: 37px;
+  padding-top: 7px;
+  background-color: #ff6200;
+  text-align: center;
+}
+
+hr {
+  width: 520px;
+  height: 6px;
+  background-color: #3d3d3d;
+}
+
+.form-cell{
+  margin: 5px 0px;
+  background-color: #F6F6F6;
+  border: 1px solid rgba(0,0,0,0.07);
+  padding: 0px 5px;
+  width: 100%;
+  height: 32px;
+  color: #878787;
+}
+
+.phone-cell{
+  width: 100%;
+}
+
+.col-md-6{
+  padding: 0 0 0 15px 
+}
+
+#form-message{
+  height: 109px;
+  color: #878787;
+}
+
+.reach-us{
+  width: 414px;
+  height: 231px;
+  color: #595959;
+  font-family: "Myriad Pro";
+}
+.company-name{
+  font-size: 16px;
+}
+
+.address{
+  font-size: 13px;
+  line-height: 13px;
+}
+.phone{
+  font-size: 13px;
+  line-height: 13px;
+}
+
+.reach-us-break{
+  height: 4px;
+}
+
+.social-bar{
+  margin-top: 65px;
+}
+.social{
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+  background-color: #ff6200;
+  border: 1px solid #595959;
+  float: left;
+}
